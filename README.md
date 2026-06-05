@@ -1,9 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-```
-// profile
-```
+
 
 # Abdelrahman Ibrahim
 
