@@ -22,7 +22,7 @@ data.analyst() → "in progress"
 ```
 ▶ Location : Cairo, EG 🇪🇬
 ▶ Focus    : Data Analytics
-▶ Status   : Learning 🔥
+▶ Status   : Learning & open to help in your bussiness growth🔥
 ```
 
 ---
